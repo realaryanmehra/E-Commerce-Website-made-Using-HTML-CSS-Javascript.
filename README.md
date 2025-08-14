@@ -36,9 +36,13 @@ git clone https://github.com/realaryanmehra/ecommerce-website.git
 Open index.html in your browser.
 
 📸 Screenshots
+
 ![Homepage Screenshot](ss/home.png)
+
 ![Services Screenshot](ss/services.png)
+
 ![Products Screenshot](ss/products.png)
+
 ![Blog Screenshot](ss/blog.png)
 
 
