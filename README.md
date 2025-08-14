@@ -30,14 +30,14 @@ JavaScript (Vanilla JS) – For interactivity and dynamic features.
 
 Clone the repository
 
-git clone https://github.com/yourusername/ecommerce-website.git
+git clone https://github.com/realaryanmehra/ecommerce-website.git
 
 
 Open index.html in your browser.
 
 📸 Screenshots
 
-(Add screenshots of your homepage, product page, and cart here)
+
 
 📜 License
 
