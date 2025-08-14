@@ -30,7 +30,7 @@ JavaScript (Vanilla JS) – For interactivity and dynamic features.
 
 Clone the repository
 
-git clone https://github.com/realaryanmehra/ecommerce-website.git
+git clone https://github.com/realaryanmehra/E-Commerce-Website-made-Using-HTML-CSS-Javascript.git
 
 
 Open index.html in your browser.
