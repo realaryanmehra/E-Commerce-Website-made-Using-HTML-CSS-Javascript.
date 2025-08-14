@@ -1,5 +1,5 @@
 # E-Commerce-Website-made-Using-HTML-CSS-Javascript.
-🛒 E-Commerce Website
+🛒 E-Commerce Website (MINISTORE)
 
 A fully responsive E-Commerce Website built using HTML, CSS, and JavaScript, designed to provide a smooth and interactive online shopping experience.
 
@@ -36,6 +36,12 @@ git clone https://github.com/realaryanmehra/ecommerce-website.git
 Open index.html in your browser.
 
 📸 Screenshots
+![Homepage Screenshot](ss/home.png)
+![Services Screenshot](ss/services.png)
+![Products Screenshot](ss/products.png)
+![Blog Screenshot](ss/blog.png)
+
+
 
 
 
